@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Giga&pause=1000&color=CBA8F0&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Luiza+Rocha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Giga&pause=1000&color=F09E99&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Luiza+Rocha)](https://git.io/typing-svg)
 
 Meu nome é Luiza Rocha, tenho 16 anos e atualmente estou cursando o ensino médio técnico do COTEMIG, onde estou aprendendo um pouco de tudo: desenvolvimento front-end, C#, banco de dados e muito mais. Tenho muito interesse em desenvolvimento de jogos e estou sempre buscando aprender mais nessa área. Já conheço o básico da linguagem Lua e adoro explorar como a programação pode dar vida a ideias criativas e interativas.
 
@@ -74,3 +74,21 @@ Meu nome é Luiza Rocha, tenho 16 anos e atualmente estou cursando o ensino méd
 
 <br/>
 <br/>
+<br/>
+
+---
+
+
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Giga&pause=1000&color=F09E99&width=435&lines=%F0%9F%8E%B6+Playlist+para+codar)](https://git.io/typing-svg)
+
+[![Ouça no Spotify](https://img.shields.io/badge/Spotify-Playlist-purple?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nmw0kPrwd7qytEdzYNEi8?si=e6c369b9987e467e)
+
+<br/>
+
+---
+<br/>
+<br/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" alt="Coding gif" />
+</p>
+
