@@ -1,28 +1,35 @@
-# 👩🏻‍💻 Luiza Rocha
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend+Giga&pause=1000&color=CBA8F0&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Luiza+Rocha)](https://git.io/typing-svg)
 
-
-Meu nome é Luiza Rocha, tenho 16 anos e atualmente estou cursando o ensino médio técnico do COTEMIG, onde estou aprendendo um pouco de tudo: desenvolvimento front-end, C#, banco de dados e muito mais. Tenho interesse em desenvolvimento de jogos e tenho noção básica da linguagem Lua. 
+Meu nome é Luiza Rocha, tenho 16 anos e atualmente estou cursando o ensino médio técnico do COTEMIG, onde estou aprendendo um pouco de tudo: desenvolvimento front-end, C#, banco de dados e muito mais. Tenho muito interesse em desenvolvimento de jogos e estou sempre buscando aprender mais nessa área. Já conheço o básico da linguagem Lua e adoro explorar como a programação pode dar vida a ideias criativas e interativas.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="mailto:luizarocha2205@gmail.com">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Email" 
+            title="Me envie um e-mail" 
+            src="https://custom-icon-badges.demolab.com/badge/-luizarocha2205@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/LuuizaRocha?tab=repositories">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Projetos" 
+            title="Meus projetos" 
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+        />
+    </a>
+    <a href="">
+        <img 
+            alt="Projetos" 
+            title="Meus projetos" 
+            src="https://custom-icon-badges.demolab.com/badge/-(31) 9--9533--9068-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Ferramentas em uso
+
 
 <img 
     align="left" 
@@ -54,7 +61,16 @@ Meu nome é Luiza Rocha, tenho 16 anos e atualmente estou cursando o ensino méd
     title="Lua" 
     width="30px" 
     style="padding-right: 10px;"
-    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Lua"
+    title="Lua" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
 <br/>
 <br/>
