@@ -1,3 +1,26 @@
+# `luiza.dev` ♡
+
+> criando, aprendendo e transformando ideias em código.
+
+<br>
+
+### ⟡ sobre
+
+Estudante do Ensino Médio Técnico, interessada em desenvolvimento web, aplicações e design.
+
+### ⟡ stack
+
+`HTML` `CSS` `JavaScript` `Python`
+
+### ⟡ atualmente
+
+aprendendo • experimentando • criando
+
+<br>
+
+<p align="center">
+  <sub>୨୧</sub>
+</p>
 
 <br/>
 <br/>
