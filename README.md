@@ -21,7 +21,3 @@ desenvolvimento web • aplicações • design
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/95/a7/51/95a751f0f4e0d32664bb6d00cc34ca63.gif" alt="GIF" width="100%" />
-</div>
