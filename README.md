@@ -1,23 +1,75 @@
-# `luiza.dev` ♡
+# Luiza Rocha
 
-> criando, aprendendo e transformando ideias em código.
+<p align="center">
+  <samp>software development · technology · creativity</samp>
+</p>
 
-### ⟡ sobre
+<p align="center">
+  <a href="https://github.com/luazzc">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/luiza-rocha-04685334b/">LinkedIn</a> ·
+  <a href="mailto:luizarocha2205@gmail.com">Email</a>
+</p>
 
-Estudante do Ensino Médio Técnico, interessada em desenvolvimento web, aplicações e design.
+---
 
-### ⟡ stack
+### 01 / INTRODUCTION
 
-`HTML` `CSS` `JavaScript` `Python`
+I'm Luiza, a developer with a strong interest in software engineering and technology.
 
-### ⟡ explorando
+I enjoy understanding how things work, exploring new technologies and building projects that combine functionality, creativity and thoughtful design.
 
-desenvolvimento web • aplicações • design
+Currently focused on expanding my knowledge in programming, databases and software development.
 
-<br>
+### 02 / TECHNOLOGIES
 
-<div align="center">
-  <sub>୨୧</sub>
-</div>
+**Programming**
 
-<br>
+`Python` `JavaScript` `PHP` `C#` `SQL`
+
+**Development**
+
+`HTML` `CSS` `Flask` `Streamlit`
+
+**Tools**
+
+`Git` `GitHub` `MySQL` `Firebase` `Netlify`
+
+### 03 / SELECTED WORK
+
+**Kokoro Learn**
+
+An interactive platform for Japanese language learning, featuring vocabulary, writing systems and exercises.
+
+→ [Explore project](https://luazzc.github.io/Kokoro-Learn/)
+
+**Chromatic**
+
+A color palette exploration project designed to make discovering and combining colors easier.
+
+→ [Explore project](https://chromatic-luma.netlify.app/)
+
+**Personal Portfolio**
+
+A space to showcase my development journey, projects and skills.
+
+→ [Explore GitHub](https://github.com/luazzc)
+
+### 04 / CURRENT INTERESTS
+
+- Software engineering
+- Web development
+- Data analysis
+- Database systems
+- Artificial intelligence
+
+### 05 / BEYOND CODE
+
+Outside programming, I enjoy drawing, learning languages, exploring design and finding inspiration in different cultures.
+
+I'm particularly interested in international academic opportunities and collaborating with people from different backgrounds.
+
+---
+
+<p align="center">
+  <samp>Building, learning, and figuring things out.</samp>
+</p>
